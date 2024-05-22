@@ -151,6 +151,3 @@ Implementing POST create new contact for the logged-in user.
 
 Implementing PUT update and DELETE contact for the logged-in user.
 
-## Outro
-
-Wrapping up the tutorial.
